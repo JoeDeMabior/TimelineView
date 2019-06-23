@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">TimelineView</string>
+
+    <string name="delivery_status">Steps!!</string>
     <string name="add_to_top">Add to Top</string>
     <string name="add_to_bottom">Add to Bottom</string>
 
@@ -20,7 +22,7 @@
 
     <string name="content_3">
         The Gallipoli Campaign ends in an Allied defeat and an Ottoman victory.\n\nBattle of Doberdo, part of the Sixth Battle of Isonzo.
-        \n\nAllies capture Yanbu. Grigori Rasputin, Russia's éminence grise, is assassinated.
+        \n\nAllies capture Yanbu. Grigori Rasputin, Russia\'s éminence grise, is assassinated.
     </string>
 
     <string name="content_4">
